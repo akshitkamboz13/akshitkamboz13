@@ -29,6 +29,6 @@ My primary goal is to become a skilled software engineer and contribute to meani
 
 ## 📫 Contact
 
-Feel free to reach out to me through email at akshitkamboz13@gmail.com, connect with me on [LinkedIn]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/akshitkamboz13/)), or follow me on [Twitter]([https://twitter.com/your_handle](https://twitter.com/akshitkamboz131)) for updates on my projects and tech-related thoughts.
+Feel free to reach out to me through email at akshitkamboz13@gmail.com, connect with me on [LinkedIn](https://www.linkedin.com/in/akshitkamboz13/), or follow me on [Twitter](https://twitter.com/akshitkamboz131) for updates on my projects and tech-related thoughts.
 
 Thank you for visiting my GitHub page. Happy coding! 😄
