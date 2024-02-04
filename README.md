@@ -9,9 +9,9 @@ Hello there! 👋 I'm Akshit, a Computer Science and Engineering (CSE) student w
 ## 💻 Tech Stack
 
 - Programming Languages: JavaScript, Java, C++, Python
-- Frontend: HTML, CSS, Bootstrap, React.js
-- Backend: SpringBoot, Node.js
-- Database: MySQL, Postgresql
+- Frontend: HTML, CSS, JavaScript, Bootstrap, ReactJs
+- Backend: SpringBoot, NodeJs, ExpressJs
+- Database: MySQL, Postgresql, MongoDB
 - Version Control: Git, GitHub
 
 ## 🌱 Interests
