@@ -10,6 +10,7 @@ Hello there! 👋 I'm Akshit, a Computer Science and Engineering (CSE) student w
 
 - Programming Languages: JavaScript, Java, C++, Python
 - Frontend: HTML, CSS, JavaScript, Bootstrap, ReactJs
+- CSS Frameworks: Bootstarp, Tailwind
 - Backend: SpringBoot, NodeJs, ExpressJs
 - Database: MySQL, Postgresql, MongoDB
 - Version Control: Git, GitHub
