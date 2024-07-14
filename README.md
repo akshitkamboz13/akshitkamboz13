@@ -34,8 +34,8 @@ Feel free to reach out to me through email at akshitkamboz13@gmail.com, connect 
 
 ## 💻 #30NitesOfCode:
 
-[Check out my progress!](https://www.codedex.io/@akshitkamboz1368762/30-nites-of-code)  
-<img src="https://www.codedex.io/api/petStatus?user=akshitkamboz1368762" width="300">
+[Codedex](https://www.codedex.io/@akshitkamboz1368762/30-nites-of-code)  
+![@akshitkamboz1368762 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=akshitkamboz1368762)
 
   
 Thank you for visiting my GitHub page. Happy coding! 😄
