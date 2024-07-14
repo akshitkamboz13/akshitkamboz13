@@ -8,7 +8,7 @@ Hello there! 👋 I'm Akshit, a Computer Science and Engineering (CSE) student w
 
 ## 💻 Tech Stack
 
-- Programming Languages: JavaScript, Java, C++, Python
+- Programming Languages: JavaScript, Java
 - Frontend: HTML, CSS, JavaScript, Bootstrap, ReactJs
 - CSS Frameworks: Bootstarp, Tailwind
 - Backend: SpringBoot, NodeJs, ExpressJs
@@ -32,4 +32,9 @@ My primary goal is to become a skilled software engineer and contribute to meani
 
 Feel free to reach out to me through email at akshitkamboz13@gmail.com, connect with me on [LinkedIn](https://www.linkedin.com/in/akshitkamboz13/), or follow me on [Twitter](https://twitter.com/akshitkamboz131) for updates on my projects and tech-related thoughts.
 
+## 💻 #30NitesOfCode:
+
+[Check out my progress!](https://www.codedex.io/@akshitkamboz1368762/30-nites-of-code)  
+![@akshitkamboz1368762 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=akshitkamboz1368762)
+  
 Thank you for visiting my GitHub page. Happy coding! 😄
