@@ -32,8 +32,9 @@ My primary goal is to become a skilled software engineer and contribute to meani
 
 Feel free to reach out to me through email at akshitkamboz13@gmail.com, connect with me on [LinkedIn](https://www.linkedin.com/in/akshitkamboz13/), or follow me on [Twitter](https://twitter.com/akshitkamboz131) for updates on my projects and tech-related thoughts.
 
-## Buy Me a Coffee
-<a href="https://www.buymeacoffee.com/akshitkamboz13"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=akshitkamboz13&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+## ☕ Buy Me a Coffee
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=akshitkamboz13&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/akshitkamboz13)
 
 ## 💻 #30NitesOfCode:
 
