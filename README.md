@@ -44,8 +44,18 @@ I don't just write code; I ship products and find vulnerabilities.
 
 ### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitkamboz13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
+### 📊 GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitkamboz13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitkamboz13&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  
+  <br/> <br/>
 
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=akshitkamboz13&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/akshitkamboz13)
+  <img src="https://github-readme-stats.vercel.app/api?username=akshitkamboz13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitkamboz13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+
+  [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=akshitkamboz13&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/akshitkamboz13)
+</div>
+
+
