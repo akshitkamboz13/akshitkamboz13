@@ -44,8 +44,6 @@ I don't just write code; I ship products and find vulnerabilities.
 
 ### 📊 GitHub Analytics
 
-### 📊 GitHub Analytics
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitkamboz13&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   
