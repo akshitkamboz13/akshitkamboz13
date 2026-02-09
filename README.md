@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Akshit Kamboj</h1>
-  <h3 align="center">Full-Stack Engineer 🚀 | Security Researcher 🛡️ | AI Tool Builder 🤖</h3>
+  <h3 align="center">Full-Stack Engineer | Security Researcher | AI Tool Builder </h3>
   
   <p align="center">
     <b>Building privacy-first architectures & breaking enterprise logic.</b>
@@ -19,7 +19,7 @@
 
 <br />
 
-### ⚡ The Arsenal (Tech Stack)
+### The Arsenal (Tech Stack)
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
@@ -31,7 +31,7 @@
 
 <br />
 
-### 🔭 Engineering Highlights
+### Engineering Highlights
 
 I don't just write code; I ship products and find vulnerabilities.
 
@@ -42,7 +42,7 @@ I don't just write code; I ship products and find vulnerabilities.
 
 <br />
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitkamboz13&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -57,9 +57,7 @@ I don't just write code; I ship products and find vulnerabilities.
 <br />
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/akshitkamboz13">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
+  [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=akshitkamboz13&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/akshitkamboz13)
 </div>
 
 
