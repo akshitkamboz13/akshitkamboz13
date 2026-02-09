@@ -51,5 +51,7 @@ I don't just write code; I ship products and find vulnerabilities.
 <br />
 
 <div align="center">
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=akshitkamboz13&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/akshitkamboz13)
+  <a href="https://www.buymeacoffee.com/akshitkamboz13">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=akshitkamboz13&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me a Coffee" />
+  </a>
 </div>
